@@ -2,9 +2,9 @@
     font-family: "Yrsa";
     src: 
         local("Yrsa-Bold"),
-        url("fonts/Yrsa-Bold.woff2") format("woff2"),
-        url("fonts/Yrsa-Bold.woff") format("woff"),
-        url("fonts/Yrsa-Bold.ttf") format("truetype");
+        url("../public/fonts/Yrsa-Bold.woff2") format("woff2"),
+        url("../public/fonts/Yrsa-Bold.woff") format("woff"),
+        url("../public/fonts/Yrsa-Bold.ttf") format("truetype");
     font-weight: bold;
     font-display: swap;
 }
@@ -13,9 +13,9 @@
     font-family: "Yrsa";
     src: 
         local("Yrsa-Regular"),
-        url("fonts/Yrsa-Regular.woff2") format("woff2"),
-        url("fonts/Yrsa-Regular.woff") format("woff"),
-        url("fonts/Yrsa-Regular.ttf") format("truetype");
+        url("../public/fonts/Yrsa-Regular.woff2") format("woff2"),
+        url("../public/fonts/Yrsa-Regular.woff") format("woff"),
+        url("../public/fonts/Yrsa-Regular.ttf") format("truetype");
     font-weight: normal;
     font-display: swap;
 }
